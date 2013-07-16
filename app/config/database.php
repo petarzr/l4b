@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'database',
-			'username'  => 'root',
-			'password'  => '',
+			'database'  => 'l4b',
+			'username'  => 'l4b',
+			'password'  => 'l4b',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
