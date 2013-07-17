@@ -47,6 +47,7 @@ return array(
     'ClassPreloader\\Parser\\DirVisitor' => $vendorDir . '/classpreloader/classpreloader/src/ClassPreloader/Parser/DirVisitor.php',
     'ClassPreloader\\Parser\\FileVisitor' => $vendorDir . '/classpreloader/classpreloader/src/ClassPreloader/Parser/FileVisitor.php',
     'ClassPreloader\\Parser\\NodeTraverser' => $vendorDir . '/classpreloader/classpreloader/src/ClassPreloader/Parser/NodeTraverser.php',
+    'CreatePosts' => $baseDir . '/app/database/migrations/2013_07_17_191323_create_posts.php',
     'CreateSessionTable' => $baseDir . '/app/database/migrations/2013_07_16_213628_create_session_table.php',
     'CreateUsers' => $baseDir . '/app/database/migrations/2013_07_17_190155_create_users.php',
     'DatabaseSeeder' => $baseDir . '/app/database/seeds/DatabaseSeeder.php',
