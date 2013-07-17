@@ -17,7 +17,7 @@
  */
 
 /**
- * YayMock include and bootstrap file.
+ * YayMock include and assets file.
  * @author Chris Corbyn
  */
 

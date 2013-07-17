@@ -51,7 +51,7 @@ class App extends Illuminate\Support\Facades\App{
 	 }
 
 	/**
-	 * Get the application bootstrap file.
+	 * Get the application assets file.
 	 *
 	 * @return string
 	 * @static 

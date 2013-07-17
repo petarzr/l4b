@@ -241,7 +241,7 @@ class Yay
   }
 
   /**
-   * Static autoloader registered in bootstrap file.
+   * Static autoloader registered in assets file.
    * @param string $class
    */
   public static function autoload($class)

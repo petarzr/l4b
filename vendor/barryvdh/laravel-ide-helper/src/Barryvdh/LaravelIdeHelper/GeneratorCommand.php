@@ -50,8 +50,8 @@ class GeneratorCommand extends Command {
      */
     public function fire()
     {
-        if (file_exists($compiled = base_path().'/bootstrap/compiled.php')){
-            $this->error('Error generating IDE Helper: first delete bootstrap/compiled.php (php artisan clear-compiled)');
+        if (file_exists($compiled = base_path().'/assets/compiled.php')){
+            $this->error('Error generating IDE Helper: first delete assets/compiled.php (php artisan clear-compiled)');
         }else{
             $filename = $this->argument('filename');
     

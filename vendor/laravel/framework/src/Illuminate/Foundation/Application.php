@@ -174,7 +174,7 @@ class Application extends Container implements HttpKernelInterface, ResponsePrep
 	}
 
 	/**
-	 * Get the application bootstrap file.
+	 * Get the application assets file.
 	 *
 	 * @return string
 	 */

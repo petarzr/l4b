@@ -68,7 +68,7 @@ class OptimizeCommand extends Command {
 	{
 		$this->registerClassPreloaderCommand();
 
-		$outputPath = $this->laravel['path.base'].'/bootstrap/compiled.php';
+		$outputPath = $this->laravel['path.base'].'/assets/compiled.php';
 
 		$this->callSilent('compile', array(
 			'--config' => implode(',', $this->getClassFiles()),
