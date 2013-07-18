@@ -11,7 +11,15 @@
 |
 */
 
-Route::get('/', function()
+\Route::get('/', function()
 {
 	return View::make('hello');
+});
+
+\Route::get('login',function(){
+    echo'prinataj formu za login';
+ });
+
+\Route::get('signup',function(){
+    echo 'prinatj formu za registraciju';
 });
