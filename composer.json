@@ -5,9 +5,14 @@
 	"require": {
 		"laravel/framework": "4.0.*",
 		"barryvdh/laravel-ide-helper": "1.*",
+        "way/generators": "dev-master",
+        "twitter/bootstrap": "dev-master",
+        "conarwelsh/mustache-l4": "dev-master"
+	},
+    "require-dev": {
         "phpunit/phpunit": "dev-configuration",
         "mockery/mockery": "dev-master"
-	},
+    },
 	"autoload": {
 		"classmap": [
 			"app/commands",

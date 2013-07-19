@@ -7,6 +7,8 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Whoops' => array($vendorDir . '/filp/whoops/src'),
+    'Way\\Tests' => array($vendorDir . '/way/laravel-test-helpers/src'),
+    'Way\\Generators' => array($vendorDir . '/way/generators/src'),
     'Symfony\\Component\\Yaml\\' => array($vendorDir . '/symfony/yaml'),
     'Symfony\\Component\\Translation\\' => array($vendorDir . '/symfony/translation'),
     'Symfony\\Component\\Routing\\' => array($vendorDir . '/symfony/routing'),
@@ -27,6 +29,7 @@ return array(
     'Patchwork' => array($vendorDir . '/patchwork/utf8/class'),
     'PHPParser' => array($vendorDir . '/nikic/php-parser/lib'),
     'Normalizer' => array($vendorDir . '/patchwork/utf8/class'),
+    'Mustache' => array($vendorDir . '/mustache/mustache/src'),
     'Monolog' => array($vendorDir . '/monolog/monolog/src'),
     'Mockery' => array($vendorDir . '/mockery/mockery/library'),
     'Illuminate' => array($vendorDir . '/laravel/framework/src'),
@@ -37,6 +40,7 @@ return array(
     'Doctrine\\Common\\Cache\\' => array($vendorDir . '/doctrine/cache/lib'),
     'Doctrine\\Common\\Annotations\\' => array($vendorDir . '/doctrine/annotations/lib'),
     'Doctrine\\Common\\' => array($vendorDir . '/doctrine/common/lib'),
+    'Conarwelsh\\MustacheL4' => array($vendorDir . '/conarwelsh/mustache-l4/src'),
     'ClassPreloader' => array($vendorDir . '/classpreloader/classpreloader/src'),
     'Carbon' => array($vendorDir . '/nesbot/carbon'),
     'Barryvdh\\LaravelIdeHelper' => array($vendorDir . '/barryvdh/laravel-ide-helper/src'),
