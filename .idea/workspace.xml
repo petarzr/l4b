@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e02e992-6904-4cd5-8981-199ef0c3bdb5" name="Default" comment="">
+    <list default="true" id="4e02e992-6904-4cd5-8981-199ef0c3bdb5" name="Default" comment="view resource to public/view">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/seeds/CommentsTableSeeder.php" afterPath="$PROJECT_DIR$/app/database/seeds/CommentsTableSeeder.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/seeds/PostsTableSeeder.php" afterPath="$PROJECT_DIR$/app/database/seeds/PostsTableSeeder.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/seeds/UsersTableSeeder.php" afterPath="$PROJECT_DIR$/app/database/seeds/UsersTableSeeder.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -9,7 +11,7 @@
     <ignored path="l4b.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/HomeController.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374133385682" ignored="false" />
-    <file path="/Dummy.txt" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374334963963" ignored="false" />
+    <file path="/Dummy.txt" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374336204708" ignored="false" />
     <file path="$PROJECT_DIR$/vendor/composer/ClassLoader.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374010823204" ignored="false" />
     <file path="/2013_07_17_190155_create_users.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374087901191" ignored="false" />
     <file path="/2013_07_17_191323_create_posts.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374326709418" ignored="false" />
@@ -6672,10 +6674,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UsersTableSeeder.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="UsersTableSeeder.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/database/seeds/UsersTableSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="8" selection-start="155" selection-end="155" vertical-scroll-proportion="0.22012578">
+            <state line="21" column="10" selection-start="610" selection-end="610" vertical-scroll-proportion="-13.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommentsTableSeeder.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/database/seeds/CommentsTableSeeder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="8" selection-start="1675" selection-end="1675" vertical-scroll-proportion="-13.208333">
               <folding />
             </state>
           </provider>
@@ -6684,16 +6695,16 @@
       <file leaf-file-name="PostsTableSeeder.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/database/seeds/PostsTableSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="16" selection-start="224" selection-end="571" vertical-scroll-proportion="-10.0">
+            <state line="7" column="8" selection-start="155" selection-end="155" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -6747,10 +6758,10 @@
         <option value="$PROJECT_DIR$/app/controllers/V1/PostsCommentsController.php" />
         <option value="$PROJECT_DIR$/app/controllers/V1/PostsController.php" />
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/app/database/seeds/CommentsTableSeeder.php" />
         <option value="$PROJECT_DIR$/app/database/seeds/PostsTableSeeder.php" />
         <option value="$PROJECT_DIR$/app/database/seeds/UsersTableSeeder.php" />
+        <option value="$PROJECT_DIR$/app/database/seeds/CommentsTableSeeder.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -7263,20 +7274,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/seeds/CommentsTableSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="12" selection-start="234" selection-end="234" vertical-scroll-proportion="0.3144654">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/V1/UsersController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="19" selection-start="116" selection-end="116" vertical-scroll-proportion="-3.125">
@@ -7286,14 +7283,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/seeds/PostsTableSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="16" selection-start="224" selection-end="571" vertical-scroll-proportion="-10.0">
+        <state line="7" column="8" selection-start="155" selection-end="155" vertical-scroll-proportion="-4.375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/seeds/UsersTableSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="8" selection-start="155" selection-end="155" vertical-scroll-proportion="0.22012578">
+        <state line="21" column="10" selection-start="610" selection-end="610" vertical-scroll-proportion="-13.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/seeds/CommentsTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="8" selection-start="1675" selection-end="1675" vertical-scroll-proportion="-13.208333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

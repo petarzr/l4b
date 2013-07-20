@@ -5,7 +5,7 @@ class UsersTableSeeder extends Seeder {
     public function run()
     {
     	// Uncomment the below to wipe the table clean before populating
-    	DB::table('users')->delete();
+    	//DB::table('users')->delete();
 
         $users = array(
             array(
@@ -19,7 +19,7 @@ class UsersTableSeeder extends Seeder {
         );
 
         // Uncomment the below to run the seeder
-         DB::table('users')->insert($users);
+        // DB::table('users')->insert($users);
     }
 
 }
