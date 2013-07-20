@@ -1,4 +1,9 @@
 <?php
+//use our new namespace
+namespace V1;
+
+//import classes that are not in this new namespace
+use BaseController;
 
 class UsersController extends BaseController {
 

@@ -1,93 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e02e992-6904-4cd5-8981-199ef0c3bdb5" name="Default" comment=" css">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/database/migrations/2013_07_20_142955_create_posts_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/database/migrations/2013_07_20_143018_create_comments_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/Comment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/CommentsController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/database/seeds/CommentsTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/Post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/PostsController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/database/seeds/PostsTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/UsersController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/database/seeds/UsersTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/create.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/create.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/create.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/edit.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/edit.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/edit.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/index.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/index.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/index.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/show.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/show.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/show.blade.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/database/migrations/2013_07_17_191323_create_posts.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/database/migrations/2013_07_17_190155_create_users.php" afterPath="$PROJECT_DIR$/app/database/migrations/2013_07_20_141752_create_users_table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/BaseGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/BaseGeneratorCommand.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Cache.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ControllerGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ControllerGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ControllerGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ControllerGeneratorCommand.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php" afterPath="$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/FormDumperCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/FormDumperCommand.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/FormDumperGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/FormDumperGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/Generator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/Generator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/GeneratorsServiceProvider.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/GeneratorsServiceProvider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/MigrationGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/MigrationGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/MigrationGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/MigrationGeneratorCommand.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ModelGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ModelGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ModelGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ModelGeneratorCommand.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ResourceGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ResourceGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ResourceGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ResourceGeneratorCommand.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ScaffoldGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ScaffoldGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ScaffoldGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ScaffoldGeneratorCommand.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/SeedGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/SeedGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/SeedGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/SeedGeneratorCommand.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/TestGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/TestGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/TestGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/TestGeneratorCommand.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ViewGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ViewGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ViewGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ViewGeneratorCommand.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+    <list default="true" id="4e02e992-6904-4cd5-8981-199ef0c3bdb5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/V1/PostsCommentsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/V1/PostsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/V1/UsersController.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/CommentsController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/PostsController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/UsersController.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/controller-test.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/controller-test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/controller.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/controller.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/controller.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/controller.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/create.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/create.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/create.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/create.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/edit.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/edit.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/edit.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/edit.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/generic-block.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/generic-block.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/generic.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/generic.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/index.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/index.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/index.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/index.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/list-block.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/list-block.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/list.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/list.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-down-drop.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-down-drop.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-down.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-down.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-up-create.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-up-create.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-up.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-up.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/model.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/model.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/model.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/model.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/scaffold.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/scaffold.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/seed.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/seed.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/show.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/show.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/show.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/show.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/styles.css" afterPath="$PROJECT_DIR$/public/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/styles.less" afterPath="$PROJECT_DIR$/public/css/styles.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/test.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/view.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/view.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="l4b.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/HomeController.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374133385682" ignored="false" />
-    <file path="/Dummy.txt" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374326346098" ignored="false" />
+    <file path="/Dummy.txt" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374330920725" ignored="false" />
     <file path="$PROJECT_DIR$/vendor/composer/ClassLoader.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374010823204" ignored="false" />
     <file path="/2013_07_17_190155_create_users.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374087901191" ignored="false" />
     <file path="/2013_07_17_191323_create_posts.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374326709418" ignored="false" />
@@ -99,7 +27,7 @@
     <file path="/app.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374278923418" ignored="false" />
     <file path="$PROJECT_DIR$/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/RequestTest.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374280456367" ignored="false" />
     <file path="/app.mustache" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374285280231" ignored="false" />
-    <file path="/a.dummy" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374330315641" ignored="false" />
+    <file path="/a.dummy" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374331889443" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -6741,16 +6669,34 @@
       <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="50" selection-start="412" selection-end="412" vertical-scroll-proportion="-6.875">
+            <state line="4" column="0" selection-start="110" selection-end="110" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="UsersController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
+        <entry file="file://$PROJECT_DIR$/app/controllers/V1/UsersController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="5" column="19" selection-start="116" selection-end="116" vertical-scroll-proportion="-3.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostsController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/V1/PostsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="19" selection-start="116" selection-end="116" vertical-scroll-proportion="-3.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostsCommentsController.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/V1/PostsCommentsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="9" selection-start="306" selection-end="307" vertical-scroll-proportion="0.46601942">
               <folding />
             </state>
           </provider>
@@ -6765,10 +6711,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2013_07_20_142955_create_posts_table.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2013_07_20_142955_create_posts_table.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_07_20_142955_create_posts_table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="33" selection-start="499" selection-end="499" vertical-scroll-proportion="0.52427185">
+            <state line="19" column="33" selection-start="499" selection-end="499" vertical-scroll-proportion="-11.25">
               <folding />
             </state>
           </provider>
@@ -6821,13 +6767,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/bootstrap/start.php" />
-        <option value="$PROJECT_DIR$/app/config/view.php" />
-        <option value="$PROJECT_DIR$/public/package.json" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/public/js/app.js" />
-        <option value="$PROJECT_DIR$/app/routes.php" />
         <option value="$PROJECT_DIR$/public/css/styles.css" />
         <option value="$PROJECT_DIR$/public/views/app.php" />
         <option value="$PROJECT_DIR$/app/config/app.php" />
@@ -6837,6 +6778,11 @@
         <option value="$PROJECT_DIR$/app/database/migrations/2013_07_17_191323_create_posts.php" />
         <option value="$PROJECT_DIR$/app/database/migrations/2013_07_20_141752_create_users_table.php" />
         <option value="$PROJECT_DIR$/app/database/migrations/2013_07_20_142955_create_posts_table.php" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/controllers/V1/UsersController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/V1/PostsController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/V1/CommentsController.php" />
+        <option value="$PROJECT_DIR$/app/controllers/V1/PostsCommentsController.php" />
       </list>
     </option>
   </component>
@@ -7076,6 +7022,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="V1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -7194,7 +7162,11 @@
       <created>1374283706311</created>
       <updated>1374283706311</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="database migration based on php artisan create resource">
+      <created>1374330952836</created>
+      <updated>1374330952836</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -7203,20 +7175,20 @@
     <layout>
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="169" y="236" width="1103" height="573" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32134292" sideWeight="0.6704362" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -7264,7 +7236,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value=" css" />
+    <option name="LAST_COMMIT_MESSAGE" value="database migration based on php artisan create resource" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -7290,16 +7262,12 @@
     <MESSAGE value="need files based on tutorial" />
     <MESSAGE value="view files" />
     <MESSAGE value=" css" />
+    <MESSAGE value="database migration based on php artisan create resource" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/views/layouts/application.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="6" selection-start="2539" selection-end="2539" vertical-scroll-proportion="0.516129" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/views/app.mustache">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
@@ -7353,20 +7321,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="50" selection-start="412" selection-end="412" vertical-scroll-proportion="-6.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_07_20_141752_create_users_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="31" selection-start="371" selection-end="371" vertical-scroll-proportion="-9.916667">
@@ -7385,7 +7339,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_07_20_142955_create_posts_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="33" selection-start="499" selection-end="499" vertical-scroll-proportion="0.52427185">
+        <state line="19" column="33" selection-start="499" selection-end="499" vertical-scroll-proportion="-11.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/V1/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="116" selection-end="116" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/V1/PostsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="116" selection-end="116" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="13" selection-end="13" vertical-scroll-proportion="0.06122449">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="110" selection-end="110" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/V1/PostsCommentsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="9" selection-start="306" selection-end="307" vertical-scroll-proportion="0.46601942">
           <folding />
         </state>
       </provider>

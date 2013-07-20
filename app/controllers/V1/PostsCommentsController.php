@@ -1,6 +1,11 @@
 <?php
+//use our new namespace
+namespace V1;
 
-class CommentsController extends BaseController {
+//import classes that are not in this new namespace
+use BaseController;
+
+class PostsCommentsController extends BaseController {
 
     /**
      * Display a listing of the resource.

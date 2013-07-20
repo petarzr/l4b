@@ -48,7 +48,7 @@ return array(
     'ClassPreloader\\Parser\\FileVisitor' => $vendorDir . '/classpreloader/classpreloader/src/ClassPreloader/Parser/FileVisitor.php',
     'ClassPreloader\\Parser\\NodeTraverser' => $vendorDir . '/classpreloader/classpreloader/src/ClassPreloader/Parser/NodeTraverser.php',
     'Comment' => $baseDir . '/app/models/Comment.php',
-    'CommentsController' => $baseDir . '/app/controllers/CommentsController.php',
+    'CommentsController' => $baseDir . '/app/controllers/PostsCommentsController.php',
     'Conarwelsh\\MustacheL4\\FilesystemLoader' => $vendorDir . '/conarwelsh/mustache-l4/src/Conarwelsh/MustacheL4/FilesystemLoader.php',
     'Conarwelsh\\MustacheL4\\MustacheEngine' => $vendorDir . '/conarwelsh/mustache-l4/src/Conarwelsh/MustacheL4/MustacheEngine.php',
     'Conarwelsh\\MustacheL4\\MustacheL4ServiceProvider' => $vendorDir . '/conarwelsh/mustache-l4/src/Conarwelsh/MustacheL4/MustacheL4ServiceProvider.php',
