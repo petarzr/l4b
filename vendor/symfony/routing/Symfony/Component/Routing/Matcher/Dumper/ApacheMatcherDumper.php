@@ -26,7 +26,7 @@ class ApacheMatcherDumper extends MatcherDumper
      *
      * Available options:
      *
-     *  * script_name: The script name (app.php by default)
+     *  * script_name: The script name (app.mustache by default)
      *  * base_uri:    The base URI ("" by default)
      *
      * @param array $options An array of options
@@ -38,7 +38,7 @@ class ApacheMatcherDumper extends MatcherDumper
     public function dump(array $options = array())
     {
         $options = array_merge(array(
-            'script_name' => 'app.php',
+            'script_name' => 'app.mustache',
             'base_uri'    => '',
         ), $options);
 

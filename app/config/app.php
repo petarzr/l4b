@@ -113,7 +113,11 @@ return array(
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
+
         'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
+
+        'Way\Generators\GeneratorsServiceProvider',
+        'Conarwelsh\MustacheL4\MustacheL4ServiceProvider',
 	),
 
 	/*

@@ -40,7 +40,7 @@ class KeyGenerateCommand extends Command {
 	 */
 	public function fire()
 	{
-		$contents = $this->files->get($path = $this->laravel['path'].'/config/app.php');
+		$contents = $this->files->get($path = $this->laravel['path'].'/config/app.mustache');
 
 		$key = $this->getRandomKey();
 

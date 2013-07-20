@@ -62,17 +62,17 @@ class PhpGeneratorDumperTest extends \PHPUnit_Framework_TestCase
         file_put_contents($this->testTmpFilepath, $this->generatorDumper->dump());
         include ($this->testTmpFilepath);
 
-        $projectUrlGenerator = new \ProjectUrlGenerator(new RequestContext('/app.php'));
+        $projectUrlGenerator = new \ProjectUrlGenerator(new RequestContext('/app.mustache'));
 
         $absoluteUrlWithParameter    = $projectUrlGenerator->generate('Test', array('foo' => 'bar'), true);
         $absoluteUrlWithoutParameter = $projectUrlGenerator->generate('Test2', array(), true);
         $relativeUrlWithParameter    = $projectUrlGenerator->generate('Test', array('foo' => 'bar'), false);
         $relativeUrlWithoutParameter = $projectUrlGenerator->generate('Test2', array(), false);
 
-        $this->assertEquals($absoluteUrlWithParameter, 'http://localhost/app.php/testing/bar');
-        $this->assertEquals($absoluteUrlWithoutParameter, 'http://localhost/app.php/testing2');
-        $this->assertEquals($relativeUrlWithParameter, '/app.php/testing/bar');
-        $this->assertEquals($relativeUrlWithoutParameter, '/app.php/testing2');
+        $this->assertEquals($absoluteUrlWithParameter, 'http://localhost/app.mustache/testing/bar');
+        $this->assertEquals($absoluteUrlWithoutParameter, 'http://localhost/app.mustache/testing2');
+        $this->assertEquals($relativeUrlWithParameter, '/app.mustache/testing/bar');
+        $this->assertEquals($relativeUrlWithoutParameter, '/app.mustache/testing2');
     }
 
     /**
@@ -83,7 +83,7 @@ class PhpGeneratorDumperTest extends \PHPUnit_Framework_TestCase
         file_put_contents($this->testTmpFilepath, $this->generatorDumper->dump(array('class' => 'WithoutRoutesUrlGenerator')));
         include ($this->testTmpFilepath);
 
-        $projectUrlGenerator = new \WithoutRoutesUrlGenerator(new RequestContext('/app.php'));
+        $projectUrlGenerator = new \WithoutRoutesUrlGenerator(new RequestContext('/app.mustache'));
 
         $projectUrlGenerator->generate('Test', array());
     }
