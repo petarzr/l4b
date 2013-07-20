@@ -14,7 +14,7 @@ class PostsController extends BaseController {
      */
     public function index()
     {
-        //
+        echo 'index post method';
     }
 
     /**
