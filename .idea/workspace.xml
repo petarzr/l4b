@@ -1,219 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e02e992-6904-4cd5-8981-199ef0c3bdb5" name="Default" comment=" css">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_empty.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/CHANGES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/ampersand_escape.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/ampersand_escape.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/ampersand_escape.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/apostrophe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/apostrophe.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/apostrophe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/array_of_strings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/array_of_strings.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/array_of_strings.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/backbone-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/backbone-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/backslashes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/backslashes.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/backslashes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/bug_11_eating_whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/bug_11_eating_whitespace.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/bug_11_eating_whitespace.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/changing_delimiters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/changing_delimiters.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/changing_delimiters.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/check_falsy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/check_falsy.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/check_falsy.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/comments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/comments.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/comments.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/complex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/complex.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/complex.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/context-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/context_lookup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/context_lookup.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/context_lookup.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/delimiters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/delimiters.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/delimiters.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/disappearing_whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/disappearing_whitespace.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/disappearing_whitespace.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/dot_notation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/dot_notation.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/dot_notation.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/double_render.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/double_render.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/double_render.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_list.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_list.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_sections.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_sections.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_sections.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_string.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_string.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_template.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_template.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/error_not_found.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/error_not_found.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/error_not_found.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/escaped.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/escaped.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/escaped.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/falsy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/falsy.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/falsy.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/grandparent_context.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/grandparent_context.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/grandparent_context.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/helper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/higher_order_sections.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/higher_order_sections.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/higher_order_sections.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/included_tag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/included_tag.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/included_tag.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/inverted_section.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/inverted_section.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/inverted_section.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/keys_with_questionmarks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/keys_with_questionmarks.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/keys_with_questionmarks.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/malicious_template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/malicious_template.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/malicious_template.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/multiline_comment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/multiline_comment.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/multiline_comment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/mustache.js.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/dojo/mustache.js.post" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/jquery/mustache.js.post" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/mootools/mustache.js.post" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/qooxdoo/mustache.js.post" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/dojo/mustache.js.pre" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/jquery/mustache.js.pre" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/mootools/mustache.js.pre" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/qooxdoo/mustache.js.pre" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/mustache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nested_higher_order_sections.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nested_higher_order_sections.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nested_higher_order_sections.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nested_iterating.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nested_iterating.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nested_iterating.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nesting.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nesting.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nesting.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nesting_same_name.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nesting_same_name.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nesting_same_name.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/null_string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/null_string.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/null_string.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/null_view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/null_view.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/null_view.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/parse-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials_implicit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials_implicit.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials_implicit.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials_implicit.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_empty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_empty.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_empty.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_template.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_template.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_template.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_view.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_view.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_view.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_whitespace.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_whitespace.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_whitespace.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/recursion_with_same_names.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/recursion_with_same_names.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/recursion_with_same_names.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/render-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/reuse_of_enumerables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/reuse_of_enumerables.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/reuse_of_enumerables.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/scanner-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/section_as_context.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/section_as_context.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/section_as_context.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/simple.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/simple.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/simple.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/string_as_context.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/string_as_context.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/string_as_context.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/two_in_a_row.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/two_in_a_row.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/two_in_a_row.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/two_sections.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/two_sections.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/two_sections.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/underscore-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/unescaped.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/unescaped.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/unescaped.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/whitespace.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/whitespace.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/writer-test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/views/app.mustache" afterPath="$PROJECT_DIR$/public/views/app.mustache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/views/layouts/application.blade.php" afterPath="$PROJECT_DIR$/public/views/layouts/application.blade.php" />
+    <list default="true" id="4e02e992-6904-4cd5-8981-199ef0c3bdb5" name="Default" comment="template">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="l4b.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/HomeController.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374133385682" ignored="false" />
-    <file path="/Dummy.txt" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374286693301" ignored="false" />
+    <file path="/Dummy.txt" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374286820061" ignored="false" />
     <file path="$PROJECT_DIR$/vendor/composer/ClassLoader.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374010823204" ignored="false" />
     <file path="/2013_07_17_190155_create_users.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374087901191" ignored="false" />
     <file path="/2013_07_17_191323_create_posts.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374088485075" ignored="false" />
@@ -6906,7 +6700,7 @@
       <file leaf-file-name="app.mustache" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/views/app.mustache">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="21" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.6261343">
+            <state line="33" column="30" selection-start="2579" selection-end="2579" vertical-scroll-proportion="0.89836663">
               <folding />
             </state>
           </provider>
@@ -6948,6 +6742,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -7192,13 +6991,18 @@
       <created>1374283706311</created>
       <updated>1374283706311</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="template">
+      <created>1374286736748</created>
+      <updated>1374286736748</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-4" width="1303" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="168" y="208" width="1103" height="573" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -7214,7 +7018,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -7262,7 +7065,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value=" css" />
+    <option name="LAST_COMMIT_MESSAGE" value="template" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -7288,6 +7091,7 @@
     <MESSAGE value="need files based on tutorial" />
     <MESSAGE value="view files" />
     <MESSAGE value=" css" />
+    <MESSAGE value="template" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -7390,7 +7194,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/views/app.mustache">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="21" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.6261343">
+        <state line="33" column="30" selection-start="2579" selection-end="2579" vertical-scroll-proportion="0.89836663">
           <folding />
         </state>
       </provider>
