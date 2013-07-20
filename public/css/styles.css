@@ -5283,9 +5283,6 @@ body {
   margin-left: -150px;
   text-align: center;
 }
-.red_link {
-  color: green;
-}
 /**
  * Import Bootstrap's Responsive Overrides
  * now we allow bootstrap to set the overrides for a responsive layout

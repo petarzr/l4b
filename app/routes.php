@@ -7,3 +7,10 @@ Route::get('/', function()
     //notice that we do not need to provide the .mustache extension
     return View::make('layouts.application')->nest('content', 'app');
 });
+
+
+Route::resource('users', 'UsersController');
+
+Route::resource('posts', 'PostsController');
+
+Route::resource('comments', 'CommentsController');

@@ -2,229 +2,104 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e02e992-6904-4cd5-8981-199ef0c3bdb5" name="Default" comment=" css">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_empty.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/CHANGES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/ampersand_escape.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/ampersand_escape.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/ampersand_escape.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/apostrophe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/apostrophe.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/apostrophe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/array_of_strings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/array_of_strings.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/array_of_strings.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/backbone-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/backbone-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/backslashes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/backslashes.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/backslashes.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/bug_11_eating_whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/bug_11_eating_whitespace.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/bug_11_eating_whitespace.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/changing_delimiters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/changing_delimiters.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/changing_delimiters.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/check_falsy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/check_falsy.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/check_falsy.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/comments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/comments.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/comments.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/complex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/complex.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/complex.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/context-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/context_lookup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/context_lookup.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/context_lookup.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/delimiters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/delimiters.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/delimiters.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/disappearing_whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/disappearing_whitespace.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/disappearing_whitespace.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/dot_notation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/dot_notation.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/dot_notation.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/double_render.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/double_render.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/double_render.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_list.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_list.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_sections.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_sections.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_sections.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_string.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_string.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_template.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/empty_template.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/error_not_found.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/error_not_found.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/error_not_found.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/escaped.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/escaped.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/escaped.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/falsy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/falsy.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/falsy.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/grandparent_context.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/grandparent_context.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/grandparent_context.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/helper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/higher_order_sections.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/higher_order_sections.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/higher_order_sections.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/included_tag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/included_tag.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/included_tag.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/inverted_section.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/inverted_section.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/inverted_section.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/keys_with_questionmarks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/keys_with_questionmarks.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/keys_with_questionmarks.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/malicious_template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/malicious_template.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/malicious_template.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/multiline_comment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/multiline_comment.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/multiline_comment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/mustache.js.nuspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/dojo/mustache.js.post" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/jquery/mustache.js.post" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/mootools/mustache.js.post" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/qooxdoo/mustache.js.post" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/dojo/mustache.js.pre" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/jquery/mustache.js.pre" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/mootools/mustache.js.pre" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/wrappers/qooxdoo/mustache.js.pre" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/mustache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nested_higher_order_sections.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nested_higher_order_sections.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nested_higher_order_sections.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nested_iterating.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nested_iterating.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nested_iterating.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nesting.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nesting.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nesting.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nesting_same_name.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nesting_same_name.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/nesting_same_name.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/null_string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/null_string.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/null_string.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/null_view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/null_view.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/null_view.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/backbone/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/parse-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials_implicit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials_implicit.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials_implicit.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_array_of_partials_implicit.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_empty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_empty.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_empty.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_template.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_template.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_template.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_view.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_view.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_view.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_whitespace.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_whitespace.partial" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/partial_whitespace.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/recursion_with_same_names.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/recursion_with_same_names.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/recursion_with_same_names.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/render-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/reuse_of_enumerables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/reuse_of_enumerables.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/reuse_of_enumerables.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/scanner-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/section_as_context.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/section_as_context.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/section_as_context.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/simple.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/simple.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/simple.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/string_as_context.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/string_as_context.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/string_as_context.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/two_in_a_row.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/two_in_a_row.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/two_in_a_row.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/two_sections.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/two_sections.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/two_sections.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/underscore-min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/underscore/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/unescaped.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/unescaped.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/unescaped.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/whitespace.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/_files/whitespace.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/node_modules/mustache/test/writer-test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/views/app.mustache" afterPath="$PROJECT_DIR$/public/views/app.mustache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/views/layouts/application.blade.php" afterPath="$PROJECT_DIR$/public/views/layouts/application.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/database/migrations/2013_07_20_142955_create_posts_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/database/migrations/2013_07_20_143018_create_comments_table.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/Comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/CommentsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/database/seeds/CommentsTableSeeder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/Post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/PostsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/database/seeds/PostsTableSeeder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/UsersController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/database/seeds/UsersTableSeeder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/create.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/edit.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/show.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/show.blade.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/database/migrations/2013_07_17_191323_create_posts.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/database/migrations/2013_07_17_190155_create_users.php" afterPath="$PROJECT_DIR$/app/database/migrations/2013_07_20_141752_create_users_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/BaseGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/BaseGeneratorCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Cache.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ControllerGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ControllerGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ControllerGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ControllerGeneratorCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php" afterPath="$PROJECT_DIR$/app/database/seeds/DatabaseSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/FormDumperCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/FormDumperCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/FormDumperGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/FormDumperGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/Generator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/Generator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/GeneratorsServiceProvider.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/GeneratorsServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/MigrationGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/MigrationGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/MigrationGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/MigrationGeneratorCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ModelGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ModelGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ModelGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ModelGeneratorCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ResourceGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ResourceGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ResourceGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ResourceGeneratorCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ScaffoldGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ScaffoldGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ScaffoldGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ScaffoldGeneratorCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/SeedGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/SeedGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/SeedGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/SeedGeneratorCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/TestGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/TestGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/TestGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/TestGeneratorCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ViewGenerator.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/ViewGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ViewGeneratorCommand.php" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Commands/ViewGeneratorCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/controller-test.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/controller-test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/controller.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/controller.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/controller.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/controller.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/create.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/create.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/create.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/create.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/edit.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/edit.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/edit.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/edit.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/generic-block.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/generic-block.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/generic.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/generic.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/index.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/index.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/index.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/index.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/list-block.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/list-block.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/list.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/dump/list.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-down-drop.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-down-drop.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-down.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-down.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-up-create.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-up-create.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-up.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-up.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/model.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/model.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/model.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/model.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes.php" afterPath="$PROJECT_DIR$/app/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/scaffold.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/scaffold.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/seed.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/seed.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/show.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/show.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/show.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/scaffold/views/single/show.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/styles.css" afterPath="$PROJECT_DIR$/public/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/styles.less" afterPath="$PROJECT_DIR$/public/css/styles.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/test.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/view.txt" afterPath="$PROJECT_DIR$/vendor/way/generators/src/Way/Generators/Generators/templates/view.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="l4b.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/HomeController.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374133385682" ignored="false" />
-    <file path="/Dummy.txt" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374286693301" ignored="false" />
+    <file path="/Dummy.txt" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374326346098" ignored="false" />
     <file path="$PROJECT_DIR$/vendor/composer/ClassLoader.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374010823204" ignored="false" />
     <file path="/2013_07_17_190155_create_users.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374087901191" ignored="false" />
-    <file path="/2013_07_17_191323_create_posts.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374088485075" ignored="false" />
+    <file path="/2013_07_17_191323_create_posts.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374326709418" ignored="false" />
     <file path="/routes.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374099876934" ignored="false" />
     <file path="/README.md" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374272006292" ignored="false" />
     <file path="/styles.css" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374277361123" ignored="false" />
     <file path="/application.blade.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374285916123" ignored="false" />
-    <file path="/styles.less" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374278976273" ignored="false" />
+    <file path="/styles.less" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374317533777" ignored="false" />
     <file path="/app.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374278923418" ignored="false" />
     <file path="$PROJECT_DIR$/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/RequestTest.php" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374280456367" ignored="false" />
     <file path="/app.mustache" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374285280231" ignored="false" />
+    <file path="/a.dummy" changelist="4e02e992-6904-4cd5-8981-199ef0c3bdb5" time="1374330315641" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,6 +112,11 @@
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -6858,28 +6738,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
+      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="46" selection-start="326" selection-end="326" vertical-scroll-proportion="-0.625">
+            <state line="15" column="50" selection-start="412" selection-end="412" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <file leaf-file-name="UsersController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="27" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/views/layouts/application.blade.php">
+      <file leaf-file-name="2013_07_16_213628_create_session_table.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_07_16_213628_create_session_table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="6" selection-start="2539" selection-end="2539" vertical-scroll-proportion="-16.333334">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013_07_20_142955_create_posts_table.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_07_20_142955_create_posts_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="33" selection-start="499" selection-end="499" vertical-scroll-proportion="0.52427185">
               <folding />
             </state>
           </provider>
@@ -6888,52 +6777,27 @@
       <file leaf-file-name="styles.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/styles.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="10" selection-start="1316" selection-end="1325" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/app.php">
+      <file leaf-file-name="2013_07_20_141752_create_users_table.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_07_20_141752_create_users_table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="12" selection-start="4381" selection-end="4384" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="16" column="31" selection-start="371" selection-end="371" vertical-scroll-proportion="-9.916667">
+              <folding>
+                <element signature="e#7#52#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.mustache" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/views/app.mustache">
+      <file leaf-file-name="buttons.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/twitter/bootstrap/less/buttons.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="21" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.6261343">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="1" selection-start="197" selection-end="197" vertical-scroll-proportion="-5.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/view.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="49" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/routes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="-5.625">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -6957,9 +6821,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/hello.php" />
-        <option value="$PROJECT_DIR$/app/views/layouts/master.blade.php" />
-        <option value="$PROJECT_DIR$/app/controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/bootstrap/start.php" />
         <option value="$PROJECT_DIR$/app/config/view.php" />
@@ -6970,9 +6831,12 @@
         <option value="$PROJECT_DIR$/public/css/styles.css" />
         <option value="$PROJECT_DIR$/public/views/app.php" />
         <option value="$PROJECT_DIR$/app/config/app.php" />
-        <option value="$PROJECT_DIR$/public/css/styles.less" />
         <option value="$PROJECT_DIR$/public/views/layouts/application.blade.php" />
         <option value="$PROJECT_DIR$/public/views/app.mustache" />
+        <option value="$PROJECT_DIR$/public/css/styles.less" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2013_07_17_191323_create_posts.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2013_07_20_141752_create_users_table.php" />
+        <option value="$PROJECT_DIR$/app/database/migrations/2013_07_20_142955_create_posts_table.php" />
       </list>
     </option>
   </component>
@@ -7009,6 +6873,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -7024,6 +6889,68 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="twitter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -7073,9 +7000,84 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l4b" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -7083,8 +7085,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -7199,22 +7201,22 @@
     <frame x="64" y="-4" width="1303" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="168" y="208" width="1103" height="573" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="169" y="236" width="1103" height="573" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30455637" sideWeight="0.6704362" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32134292" sideWeight="0.6704362" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -7293,104 +7295,97 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/controllers/HomeController.php">
+    <entry file="file://$PROJECT_DIR$/public/views/layouts/application.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.027777778" />
+        <state line="74" column="6" selection-start="2539" selection-end="2539" vertical-scroll-proportion="0.516129" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_07_17_191323_create_posts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="29" selection-start="547" selection-end="547" vertical-scroll-proportion="0.75" />
+    <entry file="file://$PROJECT_DIR$/public/views/app.mustache">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="46" selection-start="140" selection-end="140" vertical-scroll-proportion="0.026548672" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="43" selection-start="977" selection-end="977" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="49" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="60" selection-start="111" selection-end="111" vertical-scroll-proportion="0.038961038" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="46" selection-start="326" selection-end="326" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="27" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="23" column="21" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.3418647" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="12" selection-start="4381" selection-end="4384" vertical-scroll-proportion="0.0">
+        <state line="118" column="12" selection-start="4381" selection-end="4384" vertical-scroll-proportion="0.026548672" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="43" selection-start="977" selection-end="977" vertical-scroll-proportion="0.027777778" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/twitter/bootstrap/less/responsive.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="0" selection-start="836" selection-end="969" vertical-scroll-proportion="1.2664165">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/package.json">
+    <entry file="file://$PROJECT_DIR$/vendor/twitter/bootstrap/less/bootstrap.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="197" selection-end="197" vertical-scroll-proportion="-5.625">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.16042781">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.php">
+    <entry file="file://$PROJECT_DIR$/vendor/twitter/bootstrap/less/buttons.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="268" selection-end="268" vertical-scroll-proportion="-5.625">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/app/models/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="5" selection-start="376" selection-end="379" vertical-scroll-proportion="0.3352381">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/styles.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="10" selection-start="1316" selection-end="1325" vertical-scroll-proportion="0.0">
+        <state line="22" column="0" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/views/layouts/application.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="6" selection-start="2539" selection-end="2539" vertical-scroll-proportion="-16.333334">
+        <state line="15" column="50" selection-start="412" selection-end="412" vertical-scroll-proportion="-6.875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/views/app.mustache">
+    <entry file="file://$PROJECT_DIR$/app/controllers/UsersController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="21" selection-start="1743" selection-end="1743" vertical-scroll-proportion="0.6261343">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_07_20_141752_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="31" selection-start="371" selection-end="371" vertical-scroll-proportion="-9.916667">
+          <folding>
+            <element signature="e#7#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_07_16_213628_create_session_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2013_07_20_142955_create_posts_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="33" selection-start="499" selection-end="499" vertical-scroll-proportion="0.52427185">
           <folding />
         </state>
       </provider>
