@@ -8,7 +8,13 @@ class PostsTableSeeder extends Seeder {
     	// DB::table('posts')->delete();
 
         $posts = array(
-
+           /* array(
+                'post_title'    => 'Test Post',
+                'post_body'   => 'Lorem ipsum Reprehenderit velit est irure in enim in magna aute occaecat qui velit ad.',
+                'user_id' => 'Conar Welsh',
+                'created_at' => date('Y-m-d H:i:s'),
+                'updated_at' => date('Y-m-d H:i:s'),
+            ),*/
         );
 
         // Uncomment the below to run the seeder
